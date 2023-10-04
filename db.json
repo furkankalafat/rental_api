@@ -1,0 +1,86 @@
+{
+    "rental_cars":[
+        {
+            "brand": "Audi",
+            "model": "A3",
+            "price": "50",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "A180",
+            "price": "50",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        },
+        {
+            "brand": "Seat",
+            "model": "Ibiza",
+            "price": "30",
+            "location": "Zagreb Airport",
+            "gear": "Manual",
+            "isAvailable" : true
+        },
+        {
+            "brand": "BMW",
+            "model": "320i",
+            "price": "55",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "C200",
+            "price": "60",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        },
+        {
+            "brand": "Hyundai",
+            "model": "i10",
+            "price": "20",
+            "location": "Zagreb Airport",
+            "gear": "Manual",
+            "isAvailable" : true
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Golf",
+            "price": "30",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        },
+        {
+            "brand": "Fiat",
+            "model": "500",
+            "price": "40",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        }
+    ],
+    "my_cars":[
+        {
+            "brand": "Volkswagen",
+            "model": "Golf",
+            "price": "30",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        },
+        {
+            "brand": "Fiat",
+            "model": "500",
+            "price": "40",
+            "location": "Zagreb Airport",
+            "gear": "Automatic",
+            "isAvailable" : true
+        }
+    ]
+}
